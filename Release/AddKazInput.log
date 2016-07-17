@@ -1,0 +1,23 @@
+﻿Построение начато 17.07.2016 18:14:47.
+     1>Проект "D:\dev\utils\c++\AddKazInput\AddKazInput\AddKazInput.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\AddKazInput.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         D:\bin\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         D:\bin\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\dev\utils\c++\AddKazInput\AddKazInput\Release\AddKazInput.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\AddKazInput.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\dev\utils\c++\AddKazInput\AddKazInput\Release\AddKazInput.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\dev\utils\c++\AddKazInput\AddKazInput\Release\AddKazInput.lib" /MACHINE:X86 Release\main.obj
+         Создание кода
+         Создание кода завершено
+         AddKazInput.vcxproj -> D:\dev\utils\c++\AddKazInput\AddKazInput\Release\AddKazInput.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\dev\utils\c++\AddKazInput\AddKazInput\Release\AddKazInput.exe;#1" /manifest Release\AddKazInput.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\AddKazInput.unsuccessfulbuild" удаляется.
+         Обращение к "Release\AddKazInput.lastbuildstate".
+     1>Построение проекта "D:\dev\utils\c++\AddKazInput\AddKazInput\AddKazInput.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.67
